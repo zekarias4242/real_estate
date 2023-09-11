@@ -5,7 +5,9 @@
 This repository contains code and data for analyzing a real estate dataset. The dataset includes information about house prices, house age, distance to the nearest MRT station, number of convenience stores, latitude, and longitude. This README provides an overview of the project and instructions for running the analysis code.
 
 ## Dataset
+#### Real Estate Valuation Dataset
 
+The Real Estate Valuation dataset used in this project was obtained from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set). The dataset was originally contributed by Prof. I-Cheng Yeh of the Department of Civil Engineering at National Taiwan University.
 The dataset used in this analysis can be found in the file `Realstate_dataset.xlsx`.
 
 ## Analysis Steps
