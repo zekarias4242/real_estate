@@ -42,6 +42,12 @@ Conduct bivariate analysis to investigate relationships between pairs of feature
 
 Perform multivariate analysis to understand the behavior of features.
 
+### Summary Statistical Analysis:-
+#### - Correlation Analysis
+#### - Distribution Analysis
+#### - Box Plots
+
+
 ## Requirements
 
 To run the analysis code, you'll need the following Python libraries:
